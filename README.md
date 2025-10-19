@@ -54,7 +54,12 @@ With the DeepSeek CLI you can:
 
 5. **Start Using:**
    ```bash
-   deepseek
+   deepseek-cli
+   ```
+
+6.**Export API key first**
+   ```bash
+   deepseek-cli --api-key YOUR-API-KEY-HERE
    ```
 
 ### ☁️ Cloud Setup (Requires API Key)
